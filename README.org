@@ -1,0 +1,1 @@
+Currently only tested with Tolino Shine 2 HD 1.94, *German* firmware
