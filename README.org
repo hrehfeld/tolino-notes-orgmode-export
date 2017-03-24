@@ -1,1 +1,18 @@
 Currently only tested with Tolino Shine 2 HD 1.94, *German* firmware
+
+Notes will look somewhat like this:
+
+#+begin_src org
+* "Edward Weston was a foremost exponent of texture. " :highlighted:
+:PROPERTIES:
+:CREATED:  [2017-03-18 Sat 20:45]
+:END:
+
+
+#+begin_quote
+Edward Weston was a foremost exponent of texture. 
+#+end_quote
+
+From "The Art of Photography: An Approach to Personal Expression (Barnbaum, Bruce)", p.66
+
+#+end_src
